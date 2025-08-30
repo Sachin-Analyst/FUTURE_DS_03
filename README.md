@@ -1,6 +1,6 @@
 # Student Feedback Analysis
 
-Welcome to my Third analytics project and GitHub contribution.
+This is my third analytics project, and it focuses on analyzing student feedback to improve a college event. I used Python in a Google Colab notebook to process the data and create a visual report of the findings
 
 ---
 
